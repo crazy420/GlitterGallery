@@ -11,6 +11,7 @@ gem "turbolinks", "~> 2.2.1"
 gem 'jquery-turbolinks'
 gem 'will_paginate'
 gem 'sqlite3'
+gem 'sketchily'
 gem 'mysql2'
 gem 'haml'
 gem 'grit'
@@ -19,7 +20,6 @@ gem 'jquery-rails'
 gem 'rake', '0.9.2.2'
 gem 'ruby-openid'
 gem 'open_id_authentication'
-gem 'sketchily'
 gem 'redcarpet'
 
 # Gems to make migration to Rails 4 easier
